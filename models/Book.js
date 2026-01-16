@@ -13,7 +13,7 @@ const bookSchema = new Schema({
   },
   isbn: {
     type: String,
-    unique: true
+    unique: [true, "ISBN must be unique and a string."]
   },
   publicationDate: Date,
   inStock: {
