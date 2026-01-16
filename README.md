@@ -1,4 +1,4 @@
-# Social Media API | Backend
+# Digital Bookshelf API 📚 | Backend
 
 A lab study focused on simulating building a backend for a new “Digital Bookshelf” application. The maint task is to create a RESTful API that allows librarians to manage their book inventory. (Full CRUD)
 
